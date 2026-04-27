@@ -48,4 +48,4 @@ This implementation captures the **core behavior** of Enigma in a clean and full
 
 Note: Because of the reflector’s symmetry, running the cipher again with the same rotor setup will decode the message back to the original text.
 
-Credits: Created by Arshia K (Github: ArshiaA99)
+Credits: Created by Arshia K ([Github: ArshiaA99](https://github.com/ArshiaA99))
